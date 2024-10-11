@@ -1,3 +1,1 @@
 # KatalonProject
-test
-data
