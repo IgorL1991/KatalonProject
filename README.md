@@ -1,2 +1,3 @@
 # KatalonProject
 test
+data
